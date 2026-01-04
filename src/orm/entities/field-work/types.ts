@@ -1,0 +1,20 @@
+export enum WorkType {
+  ORKA = 'орка',
+  SIVBA = 'сівба',
+  OBR_MEZHRYAD = 'обробіток міжрядь',
+  POLYV = 'полив',
+  VNES_DOBR = 'внесення добрив',
+  ZAHYST = 'захист від шкідників',
+  ZBYRANNYA = 'збирання врожаю',
+  ZYABLEVA = 'зяблева оранка',
+  LUSHENNYA = 'лушення',
+  BORONUVANNYA = 'боронування',
+  PRYBYRANNYA = 'прибирання пожнивних залишків',
+  MULCHUVANNYA = 'мульчування',
+  PIDZHYVLENNYA = 'підживлення',
+  OBRYSKUVANNYA = 'обприскування',
+  PROSADZHUVANNYA = 'просаджування',
+  KOSHENNYA = 'кошення',
+  VALKI = 'валкування',
+  TYUKUVANNYA = 'тюкування'
+}
